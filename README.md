@@ -1,4 +1,4 @@
 # Week 3 - Classification
 
-Presentation
+Presentation:
 http://bit.ly/ML_3_Class
